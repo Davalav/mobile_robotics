@@ -1,0 +1,31 @@
+# Simulink: genererat vid körning
+slprj/
++bus_conv_fcns/
+*.slxc
+*.autosave
+*.slx.r20*
+*.bak
+
+# MATLAB
+*.asv
+*.m~
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Kursmaterial och stora filer
+*.pdf
+*.mp4
+*.mov
+*.zip
+*.vmdk
+*.vmx
+
+# Windows
+Thumbs.db
+desktop.ini
