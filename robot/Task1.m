@@ -3,8 +3,8 @@
 % Kör EFTER att simuleringen har stoppats.
 
 % --- Ändra för varje körning ---
-goal = [1 1 pi/2];                          % [x y theta], samma som Goal och Goal_theta
-namn = 'task1b_robot_1_1_90';               % filnamn för den här körningen
+goal = [1 2 pi/2];                          % [x y theta], samma som Goal och Goal_theta
+namn = 'task1b_robot_1_2_90';               % filnamn för den här körningen
 mapp = fullfile('robot', 'Results', 'Task1b');
 
 % --- Hämta loggade data ---
